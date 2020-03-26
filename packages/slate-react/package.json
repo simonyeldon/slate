@@ -1,5 +1,5 @@
 {
-  "name": "slate-react",
+  "name": "@robinedman/slate-react",
   "description": "Tools for building completely customizable richtext editors with React.",
   "version": "0.57.1",
   "license": "MIT",

@@ -1,9 +1,9 @@
 {
   "files": [],
   "references": [
-    { "path": "./packages/slate" },
-    { "path": "./packages/slate-history" },
-    { "path": "./packages/slate-hyperscript" },
-    { "path": "./packages/slate-react" }
+    { "path": "./packages/@robinedman/slate" },
+    { "path": "./packages/@robinedman/slate-history" },
+    { "path": "./packages/@robinedman/slate-hyperscript" },
+    { "path": "./packages/@robinedman/slate-react" }
   ]
 }
