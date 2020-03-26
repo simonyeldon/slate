@@ -1,7 +1,7 @@
 {
   "name": "@robinedman/slate-history",
   "description": "An operation-based history implementation for Slate editors.",
-  "version": "0.57.1",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "git://github.com/ianstormtaylor/slate.git",
   "main": "dist/index.js",
