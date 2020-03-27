@@ -1,4 +1,4 @@
-import { Text } from 'slate'
+import { Text } from '@robinedman/slate'
 
 export const input = true
 

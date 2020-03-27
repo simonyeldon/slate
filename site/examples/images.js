@@ -9,8 +9,8 @@ import {
   useSelected,
   useFocused,
   withReact,
-} from 'slate-react'
-import { withHistory } from 'slate-history'
+} from '@robinedman/slate-react'
+import { withHistory } from '@robinedman/slate-history'
 import { css } from 'emotion'
 
 import { Button, Icon, Toolbar } from '../components'

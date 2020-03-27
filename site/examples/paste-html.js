@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useMemo } from 'react'
-import { jsx } from 'slate-hyperscript'
+import { jsx } from '@robinedman/slate-hyperscript'
 import { Transforms, createEditor } from 'slate'
-import { withHistory } from 'slate-history'
+import { withHistory } from '@robinedman/slate-history'
 import { css } from 'emotion'
 import {
   Slate,
@@ -9,7 +9,7 @@ import {
   withReact,
   useSelected,
   useFocused,
-} from 'slate-react'
+} from '@robinedman/slate-react'
 
 const ELEMENT_TAGS = {
   A: el => ({ type: 'link', url: el.getAttribute('href') }),

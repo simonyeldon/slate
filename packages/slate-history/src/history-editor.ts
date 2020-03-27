@@ -1,4 +1,4 @@
-import { Editor } from 'slate'
+import { Editor } from '@robinedman/slate'
 import { History } from './history'
 
 /**

@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import { Editor } from 'slate'
+import { Editor } from '@robinedman/slate'
 import { jsx } from '../../..'
 
 export const input = (

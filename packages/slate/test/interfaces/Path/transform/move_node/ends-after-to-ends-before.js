@@ -1,4 +1,4 @@
-import { Path } from 'slate'
+import { Path } from '@robinedman/slate'
 
 const path = [0, 1]
 

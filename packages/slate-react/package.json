@@ -29,7 +29,7 @@
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0",
-    "slate": ">=0.55.0"
+    "@robinedman/slate": "^1.0.0"
   },
   "umdGlobals": {
     "react": "React",

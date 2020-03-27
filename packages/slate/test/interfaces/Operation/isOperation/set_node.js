@@ -1,4 +1,4 @@
-import { Operation } from 'slate'
+import { Operation } from '@robinedman/slate'
 
 export const input = {
   type: 'set_node',

@@ -1,8 +1,8 @@
 import React, { useState, useMemo } from 'react'
 import isUrl from 'is-url'
-import { Slate, Editable, withReact, useSlate } from 'slate-react'
+import { Slate, Editable, withReact, useSlate } from '@robinedman/slate-react'
 import { Transforms, Editor, Range, createEditor } from 'slate'
-import { withHistory } from 'slate-history'
+import { withHistory } from '@robinedman/slate-history'
 
 import { Button, Icon, Toolbar } from '../components'
 

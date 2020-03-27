@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import { jsx } from 'slate-hyperscript'
+import { jsx } from '@robinedman/slate-hyperscript'
 
 export const input = (
   <editor>

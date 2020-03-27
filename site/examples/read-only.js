@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react'
 import { createEditor } from 'slate'
-import { Slate, Editable, withReact } from 'slate-react'
+import { Slate, Editable, withReact } from '@robinedman/slate-react'
 
 const ReadOnlyExample = () => {
   const [value, setValue] = useState(initialValue)

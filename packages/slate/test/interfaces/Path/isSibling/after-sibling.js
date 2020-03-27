@@ -1,4 +1,4 @@
-import { Path } from 'slate'
+import { Path } from '@robinedman/slate'
 
 export const input = {
   path: [1, 4],

@@ -1,4 +1,4 @@
-import { Range } from 'slate'
+import { Range } from '@robinedman/slate'
 
 export const input = {
   range: {

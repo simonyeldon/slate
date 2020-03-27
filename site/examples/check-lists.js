@@ -6,10 +6,10 @@ import {
   useEditor,
   useReadOnly,
   ReactEditor,
-} from 'slate-react'
+} from '@robinedman/slate-react'
 import { Editor, Transforms, Range, Point, createEditor } from 'slate'
 import { css } from 'emotion'
-import { withHistory } from 'slate-history'
+import { withHistory } from '@robinedman/slate-history'
 
 const CheckListsExample = () => {
   const [value, setValue] = useState(initialValue)

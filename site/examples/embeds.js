@@ -8,7 +8,7 @@ import {
   ReactEditor,
   useFocused,
   useSelected,
-} from 'slate-react'
+} from '@robinedman/slate-react'
 
 const EmbedsExample = () => {
   const [value, setValue] = useState(initialValue)

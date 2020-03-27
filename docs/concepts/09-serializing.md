@@ -127,7 +127,7 @@ The most common way to use `slate-hyperscript` is for writing JSX documents, for
 
 ```jsx
 /** @jsx jsx */
-import { jsx } from 'slate-hyperscript'
+import { jsx } from '@robinedman/slate-hyperscript'
 
 const input = (
   <fragment>
@@ -156,7 +156,7 @@ But `slate-hyperscript` isn't only for JSX. It's just a way to build _trees of S
 For example, here's a `deserialize` function for HTML:
 
 ```js
-import { jsx } from 'slate-hyperscript'
+import { jsx } from '@robinedman/slate-hyperscript'
 
 const deserialize = el => {
   if (el.nodeType === 3) {
