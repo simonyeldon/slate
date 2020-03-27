@@ -7,7 +7,7 @@ import {
   useReadOnly,
   ReactEditor,
 } from '@robinedman/slate-react'
-import { Editor, Transforms, Range, Point, createEditor } from 'slate'
+import { Editor, Transforms, Range, Point, createEditor } from '@robinedman/slate'
 import { css } from 'emotion'
 import { withHistory } from '@robinedman/slate-history'
 

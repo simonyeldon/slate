@@ -1,5 +1,5 @@
 import React, { useMemo, useCallback, useRef, useEffect, useState } from 'react'
-import { Editor, Transforms, Range, createEditor } from 'slate'
+import { Editor, Transforms, Range, createEditor } from '@robinedman/slate'
 import { withHistory } from '@robinedman/slate-history'
 import {
   Slate,

@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useMemo } from 'react'
 import { jsx } from '@robinedman/slate-hyperscript'
-import { Transforms, createEditor } from 'slate'
+import { Transforms, createEditor } from '@robinedman/slate'
 import { withHistory } from '@robinedman/slate-history'
 import { css } from 'emotion'
 import {

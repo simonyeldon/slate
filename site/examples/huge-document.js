@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useCallback } from 'react'
 import faker from 'faker'
-import { createEditor } from 'slate'
+import { createEditor } from '@robinedman/slate'
 import { Slate, Editable, withReact } from '@robinedman/slate-react'
 
 const HEADINGS = 100

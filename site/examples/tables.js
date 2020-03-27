@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useMemo } from 'react'
 import { Slate, Editable, withReact } from '@robinedman/slate-react'
-import { Editor, Range, Point, createEditor } from 'slate'
+import { Editor, Range, Point, createEditor } from '@robinedman/slate'
 import { withHistory } from '@robinedman/slate-history'
 
 const TablesExample = () => {
